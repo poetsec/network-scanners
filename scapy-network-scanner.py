@@ -5,4 +5,4 @@ import scapy.all as scapy
 def scan(ip):
     scapy.arping(ip)
 
-scan("192.168.86.1/24")
+scan("# add IP and/or range here")
